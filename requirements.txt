@@ -1,7 +1,10 @@
-streamlit
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
 groq
 easyocr
 Pillow
-python-dotenv
-langdetect
 numpy
+langdetect
