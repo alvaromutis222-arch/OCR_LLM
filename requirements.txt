@@ -4,3 +4,4 @@ easyocr
 Pillow
 python-dotenv
 langdetect
+numpy
